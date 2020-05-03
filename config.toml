@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = ".:: Site Hugo ::."
+title = ".:: Site feito em Hugo ::."
 # Edit your config.toml configuration file
 # and add the Ananke theme.
 theme = "ananke"
